@@ -1,13 +1,14 @@
 
 /* Your CSS Code here. */
-main {
+main{
     background-color: black;
     height: 150px;
     width: 150px;
+    color: white;
 
 }
-p {
-color:white ;
+p{
+
     margin-left: 32px;
     padding: 10px;
 }
